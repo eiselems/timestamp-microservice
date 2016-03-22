@@ -1,6 +1,6 @@
 {
   "name": "time-microservice",
-  "version": "0.1",
+  "version": "1.0.0",
   "description": "A microservice converting dates and timestamps.",
   "main": "server.js",
   "repository": {
