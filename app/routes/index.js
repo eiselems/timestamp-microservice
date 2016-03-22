@@ -3,8 +3,7 @@
 var path = process.cwd();
 var RequestHandler = require(path + '/app/controllers/requestHandler.server.js');
 
-module.exports = function (app, passport) {
-
+module.exports = function (app) {
 	var requestHandler = new RequestHandler();
 
 	app.route('/')
