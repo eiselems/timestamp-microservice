@@ -34,6 +34,11 @@ p {
 	margin: 8px 0 0 0;
 }
 
+.container {
+	width: 900px;
+	margin: auto;
+}
+
 .container p {
 	text-align: center;
 	padding: 0;
